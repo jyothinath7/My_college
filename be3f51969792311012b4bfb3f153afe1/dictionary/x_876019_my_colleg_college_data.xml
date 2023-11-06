@@ -23,6 +23,10 @@
         <element choice="1" label="Year" max_length="40" name="u_integer_1" type="integer">
             <choice/>
         </element>
+        <element label="Father Mobile Number" max_length="40" name="u_integer_3" type="integer"/>
+        <element label="Mother Mobile Number" max_length="40" name="u_integer_4" type="integer"/>
+        <element attributes="edge_encryption_enabled=true" label="Father Name" max_length="40" name="u_string_1" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Mother Name" max_length="40" name="u_string_2" type="string"/>
         <index name="index">
             <element name="sys_class_name"/>
         </index>

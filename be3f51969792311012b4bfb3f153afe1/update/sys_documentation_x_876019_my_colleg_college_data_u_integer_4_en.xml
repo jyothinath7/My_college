@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="u_integer_4" label="Mother Mobile Number" language="en" table="x_876019_my_colleg_college_data">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>u_integer_4</element>
+            <help/>
+            <hint/>
+            <label>Mother Mobile Number</label>
+            <language>en</language>
+            <name>x_876019_my_colleg_college_data</name>
+            <plural>Mother Mobile Numbers</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-11-06 11:36:46</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Mother Mobile Number</sys_name>
+            <sys_package display_value="My College" source="x_876019_my_colleg">be3f51969792311012b4bfb3f153afe1</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="My College">be3f51969792311012b4bfb3f153afe1</sys_scope>
+            <sys_update_name>sys_documentation_x_876019_my_colleg_college_data_u_integer_4_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-11-06 11:36:46</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

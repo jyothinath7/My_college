@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="Parents Details" section_id="9d03691e9792311012b4bfb3f153af24" sys_domain="global" table="x_876019_my_colleg_college_data" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_string_1</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-11-06 11:36:47</sys_created_on>
+            <sys_id>6d03691e9792311012b4bfb3f153afb4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Parents Details" display_value="Parents Details" name="x_876019_my_colleg_college_data" sys_domain="global" view="Default view">9d03691e9792311012b4bfb3f153af24</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-11-06 11:36:47</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_integer_3</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-11-06 11:36:47</sys_created_on>
+            <sys_id>ed03691e9792311012b4bfb3f153afb4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Parents Details" display_value="Parents Details" name="x_876019_my_colleg_college_data" sys_domain="global" view="Default view">9d03691e9792311012b4bfb3f153af24</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-11-06 11:36:47</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-11-06 11:36:47</sys_created_on>
+            <sys_id>6103691e9792311012b4bfb3f153afb5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Parents Details" display_value="Parents Details" name="x_876019_my_colleg_college_data" sys_domain="global" view="Default view">9d03691e9792311012b4bfb3f153af24</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-11-06 11:36:47</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_string_2</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-11-06 11:36:47</sys_created_on>
+            <sys_id>e103691e9792311012b4bfb3f153afb5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Parents Details" display_value="Parents Details" name="x_876019_my_colleg_college_data" sys_domain="global" view="Default view">9d03691e9792311012b4bfb3f153af24</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-11-06 11:36:47</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_integer_4</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-11-06 11:36:47</sys_created_on>
+            <sys_id>6503691e9792311012b4bfb3f153afb5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Parents Details" display_value="Parents Details" name="x_876019_my_colleg_college_data" sys_domain="global" view="Default view">9d03691e9792311012b4bfb3f153af24</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-11-06 11:36:47</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Parents Details</caption>
+            <header>false</header>
+            <name>x_876019_my_colleg_college_data</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-11-06 11:36:46</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>9d03691e9792311012b4bfb3f153af24</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_876019_my_colleg_college_data</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="My College" source="x_876019_my_colleg">be3f51969792311012b4bfb3f153afe1</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="My College">be3f51969792311012b4bfb3f153afe1</sys_scope>
+            <sys_update_name>sys_ui_section_9d03691e9792311012b4bfb3f153af24</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-11-06 11:36:46</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>
