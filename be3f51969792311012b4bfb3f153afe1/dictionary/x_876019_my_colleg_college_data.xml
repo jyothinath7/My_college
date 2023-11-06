@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="0f7f5d1a9792311012b4bfb3f153afd2" label="College data" max_length="40" name="x_876019_my_colleg_college_data" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Name" max_length="40" name="name" type="string"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Roll Number" max_length="40" name="number" type="string"/>
+        <element default="javascript:current.getTableName();" label="Class" max_length="80" name="sys_class_name" type="sys_class_name"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Branch" max_length="40" name="u_choice_2" type="string">
+            <choice>
+                <element inactive_on_update="false" label="MECH" sequence="0" value="mech"/>
+                <element inactive_on_update="false" label="CIVIL" sequence="1" value="civil"/>
+                <element inactive_on_update="false" label="CSE" sequence="2" value="cse"/>
+                <element inactive_on_update="false" label="ECE" sequence="3" value="ece"/>
+                <element inactive_on_update="false" label="EEE" sequence="4" value="eee"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Year" max_length="40" name="u_choice_3" type="string">
+            <choice>
+                <element inactive_on_update="false" label="1 Year" sequence="0" value="1 year"/>
+                <element inactive_on_update="false" label="2 Year" sequence="1" value="2 year"/>
+                <element inactive_on_update="false" label="3 Year" sequence="2" value="3 year"/>
+                <element inactive_on_update="false" label="4 Year" sequence="3" value="4 year"/>
+            </choice>
+        </element>
+        <element choice="1" label="Year" max_length="40" name="u_integer_1" type="integer">
+            <choice/>
+        </element>
+        <index name="index">
+            <element name="sys_class_name"/>
+        </index>
+    </element>
+</database>
